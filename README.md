@@ -1,2 +1,18 @@
-# -Gemini_Toefl_English_Teacher
-An interactive TOEFL preparation tool powered by Google Generative AI (Gemini). It creates TOEFL-style questions from PDFs, YouTube videos, audio files, and images, and provides structured feedback on speaking performance. Built for learners who want smart, automated practice and real-time evaluation.
+# 🧠 TOEFL Preparation Assistant with Generative AI
+
+This project demonstrates how to use **Google's Generative AI (Gemini)** to build an interactive assistant that helps students practice for the **TOEFL exam**, especially the reading, listening, and speaking sections.
+
+## 🚀 Features
+
+- 📄 **Document Understanding**: Upload a PDF or image, extract the passage content, and generate TOEFL-style questions.
+- 🎧 **Listening Comprehension**: Use YouTube or uploaded audio to create listening quizzes with automatic answer evaluation.
+- 🗣️ **Speaking Evaluation**: Upload your own audio and receive TOEFL-style feedback with strengths and improvement tips.
+- 🧠 **Few-Shot Prompting**: Ensures high-quality, structured, and varied questions using format examples.
+- 🎯 **Interactive Quiz Engine**: Answer questions in real-time or simulate randomized attempts with score tracking.
+
+## 📂 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/toefl-ai-assistant.git
+   cd toefl-ai-assistant
