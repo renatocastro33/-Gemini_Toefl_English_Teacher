@@ -15,4 +15,3 @@ This project demonstrates how to use **Google's Generative AI (Gemini)** to buil
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/toefl-ai-assistant.git
-   cd toefl-ai-assistant
